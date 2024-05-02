@@ -1,0 +1,155 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-30",
+        "cliente": "JUAN RAMOS",
+        "subtotal": 15.0,
+        "descuento": 0.0,
+        "iva": 1.8,
+        "total": 16.8,
+        "detalle": [
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 3
+            }
+        ]
+    },
+    {
+        "factura": 2,
+        "Fecha": "2024-04-28",
+        "cliente": "ELIAS RAMOS",
+        "subtotal": 1.0,
+        "descuento": 0.1,
+        "iva": 0.11,
+        "total": 1.01,
+        "detalle": [
+            {
+                "poducto": "tomate",
+                "precio": 4.0,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "factura": 3,
+        "Fecha": "2024-04-29",
+        "cliente": "BLANCA UZHCA",
+        "subtotal": 20.0,
+        "descuento": 2.0,
+        "iva": 2.16,
+        "total": 20.16,
+        "detalle": [
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "factura": 4,
+        "Fecha": "2024-04-29",
+        "cliente": "DANIEL GUAMAN",
+        "subtotal": 28.0,
+        "descuento": 2.8000000000000003,
+        "iva": 3.02,
+        "total": 28.22,
+        "detalle": [
+            {
+                "poducto": "tomate",
+                "precio": 4.0,
+                "cantidad": 8
+            }
+        ]
+    },
+    {
+        "factura": 5,
+        "Fecha": "2024-05-01",
+        "cliente": "MARIA GUAMAN",
+        "subtotal": 12.5,
+        "descuento": 0.0,
+        "iva": 1.5,
+        "total": 14.0,
+        "detalle": [
+            {
+                "poducto": "tomate",
+                "precio": 2.5,
+                "cantidad": 5
+            }
+        ]
+    },
+    {
+        "factura": 6,
+        "Fecha": "2024-05-01",
+        "cliente": "MARIA GUAMAN",
+        "subtotal": 5.0,
+        "descuento": 0.0,
+        "iva": 0.6,
+        "total": 5.6,
+        "detalle": [
+            {
+                "poducto": "tomate",
+                "precio": 2.5,
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "factura": 7,
+        "Fecha": "2024-05-01",
+        "cliente": "MARIA GUAMAN",
+        "subtotal": 27.5,
+        "descuento": 0.0,
+        "iva": 3.3,
+        "total": 30.8,
+        "detalle": [
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 2
+            },
+            {
+                "poducto": "tomate",
+                "precio": 2.5,
+                "cantidad": 1
+            },
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 3
+            }
+        ]
+    },
+    {
+        "factura": 8,
+        "Fecha": "2024-05-01",
+        "cliente": "MARIA GUAMAN",
+        "subtotal": 35.0,
+        "descuento": 3.5,
+        "iva": 3.78,
+        "total": 35.28,
+        "detalle": [
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 2
+            },
+            {
+                "poducto": "tomate",
+                "precio": 2.5,
+                "cantidad": 3
+            },
+            {
+                "poducto": "banana",
+                "precio": 5.0,
+                "cantidad": 2
+            },
+            {
+                "poducto": "tomate",
+                "precio": 2.5,
+                "cantidad": 3
+            }
+        ]
+    }
+]
